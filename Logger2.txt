@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-04T15:33:37.974834100Z</date>
+  <millis>1680622417974</millis>
+  <nanos>834100</nanos>
+  <sequence>1</sequence>
+  <level>INFO</level>
+  <class>ex001</class>
+  <method>SortArr</method>
+  <thread>1</thread>
+  <message>массив отсортирован</message>
+  <param>1 1 2 3 5 6 7 9 22 </param>
+</record>
+</log>
